@@ -1,0 +1,8 @@
+db_user = "wpuser"
+db_pass = "CHANGE_ME_StrongPassword123!"
+my_ip   = "YOUR_GLOBAL_IP/32"
+
+# 通常は空。RDSを復元した後に切り替える場合だけ指定。
+restore_db_endpoint = ""
+
+image_tag = "latest"
